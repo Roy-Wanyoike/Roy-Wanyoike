@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **Roy-Wanyoike/Roy-Wanyoike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I code a line and sleep haha
 thats why Rome wan't build in a single day
  
--->
+
