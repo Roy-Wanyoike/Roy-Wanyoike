@@ -10,9 +10,11 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on code projects only.
 - 🤔 I’m looking for zhelp with machines running fast. 
 - 💬 Ask me about myself and I will describe good. Try Machine Learning if you like it.
-- 📫 How to reach me: twitter @roywanyoike
-[(@whatsapp+254706103000)]
-linkedln[(@royfordwanyoike0]
+- 📫 How to reach me: twitter 
+- [Twitter](https://twitter.com/WanyoikeRoy)
+[Whatsapp](https://wa.me/254706103000)
+[Linkedln](https://www.linkedin.com/in/roywanyoike/)
+// [Link text Here](https://link-url-here.org)
 - 😄 Pronouns: He.
 - ⚡ Fun fact: I code a line and sleep haha
 thats why Rome wan't build in a single day
