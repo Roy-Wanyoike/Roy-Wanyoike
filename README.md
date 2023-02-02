@@ -3,7 +3,13 @@
 
 
  <div align="center">
-<h3>Hello Again? Welcome to my Home <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h3>
+<h3>Hello Again? Welcome to my Home 
+ 
+ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+ <a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=roywanyoike&label=Profile%20Visitors&pretty=true" />
+</a>
+ </h3> 
 
 ____
 
@@ -28,6 +34,7 @@ ____
   </a>
   <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Roy-Wanyoike&style=flat-square&color=blue" alt=""/>
+   
 </div>
 </div>
 
@@ -56,6 +63,12 @@ ____
  </ol>
  </ul>
  </div>
+ <div>
+ # Tech Stack:
+ 
+# Motivation Quote
+ ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 ****
 
 
