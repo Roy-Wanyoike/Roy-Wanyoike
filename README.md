@@ -68,6 +68,9 @@ ____
  
 # Motivation Quote
  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<h3 align="left">Now Playing:</h3>
+
+[![Spotify](https://now-playing-technically-tony.vercel.app/api/spotify)](https://open.spotify.com/user/pa2czf3lnpyieokt71ic0jhl6)
 
 ****
 
