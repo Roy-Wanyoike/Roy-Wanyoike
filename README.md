@@ -1,7 +1,6 @@
 # Hi there  my Name is Roy Wanyoike👋
 
-
-
+<img src="https://media.giphy.com/media/gHGKKgH0SfW9otLFrv/giphy.gif" width="30px"/>
  <div align="center">
 <h3>Hello Again? Welcome to my Home 
  
