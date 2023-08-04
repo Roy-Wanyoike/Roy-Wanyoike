@@ -1,10 +1,14 @@
-# Hi there  my Name is Roy Wanyoike👋
+# Hi there  my Name is Youngshark3(alias Roy Wanyoike)👋
 
-<img src="https://media.giphy.com/media/gHGKKgH0SfW9otLFrv/giphy.gif" width="30px"/>
+<div align="center">
+<img src="https://media.giphy.com/media/gHGKKgH0SfW9otLFrv/giphy.gif" width="200px" height="200"/>
+</div>
+
  <div align="center">
-<h3>Hello Again? Welcome to my Home 
+<h3>Hello Again? Welcome to my Hub 
  
- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+
+ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px" height="90"/>
  <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=roywanyoike&label=Profile%20Visitors&pretty=true" />
 </a>
@@ -13,7 +17,7 @@
 ____
 
 ### :man_technologist: About Me :
- I am a Full Stack Developer from Kenya.
+ I am trying to be a code connoisseur.
  <div id="profile-image">
   <img src="" /> 
  </div>
